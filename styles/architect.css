@@ -186,6 +186,23 @@ padding:30px;
     width: 165px;
 }
 
+footer{
+    border-radius: 8px;
+background: #FFF4E7;
+width:1440px;
+height: 100px;
+margin-left: 240px;
+margin-right: 250px;
+
+}
+.footer-title{
+    color: #424242;
+    text-align: center;
+    padding: 39px 410px 39px 410px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
 
 
 /* Responsive Media Query */
